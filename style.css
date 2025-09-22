@@ -1,4 +1,12 @@
 
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: black;
+  margin-top: 20px;
+}
+
+
 div.gallery {
   display: flex;
   flex-wrap: wrap;
@@ -54,3 +62,4 @@ div.gallery-item div.desc {
 
 
 }
+
